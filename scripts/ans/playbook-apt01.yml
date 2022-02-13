@@ -9,10 +9,7 @@
   tasks:
   
   - name: Use the apt package manager
-    apt:
-      update_cache: true
-      name:
-        - figlet
-        - cowsay
-      state: "{{ state }}"
+    copy:
+      content: "A brand new file"
+      dest: /tmp/newfile.txt
     become: yes
