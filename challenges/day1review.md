@@ -1,6 +1,6 @@
 # Day 1 Review!
 
-<img src="https://flexagon.com/wp-content/uploads/2020/04/a-world-without-ci.cd-meme.jpg" width="500"/>
+<img src="https://www.meme-arsenal.com/memes/ee9542e6673fdeca669d9eb8933c71ac.jpg" width="500"/>
 
 Let's do a quick project to check our skills we learned yesterday!
 
