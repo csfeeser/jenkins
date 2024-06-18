@@ -1,5 +1,5 @@
 ---
-- name: A simple playbook that installs a list of apps
+- name: A simple playbook
   hosts: all
   gather_facts: false
   
@@ -8,8 +8,5 @@
   
   tasks:
   
-  - name: Use the apt package manager
-    copy:
-      content: "A brand new file"
-      dest: /tmp/newfile.txt
-    become: yes
+  - debug:
+      msg: "That's all, folks!"
