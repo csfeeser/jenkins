@@ -3,9 +3,15 @@
 1. Please check your email (the one you signed in with on day 1) for a message titled "Alta3 Course PDF" - it has a link to your personal PDF copy of the course! Did you receive it?
     - Yes
     - No
+      
 0. While you're checking your email look for a message titled "Alta3 Live - Activation Link". You must click the blue "Activate" button in this email to authenticate your account. This is necessary for you to get continued online access to the course! If you get a message that says "error": "Registration failed, maybe it was old?" just ignore it.
     - Yes I received it! I clicked the button and ignored the "Registration failed" message
     - No I didn't receive the email at all.
+      
+0. Lab 12 had us enable a Docker cloud plugin that would build Docker containers to use as build agents. It was a pretty long lab! What did you get done? (no pressure, this isn't high school, haha!
+    - I finished it and it worked for me!
+    - I attempted it but was getting errors.
+    - I didn't get a chance to complete it.
 
 ## Review Questions:
 #### Read over these at your own pace; no need to share your answers. We'll review the answers as a class!
